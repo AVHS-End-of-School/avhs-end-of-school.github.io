@@ -1,0 +1,17 @@
+#time {
+    text-align: center;
+    color:#ffd700;
+    font-size: 50px;
+}
+#text {
+	font-size: 20px;
+	color:#ffd700;
+}
+body{
+	background-color: purple
+}
+#title{
+	font-size: 80px;
+	color:#ffd700;
+	text-align: center;
+}
